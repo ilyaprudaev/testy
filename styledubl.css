@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    background-color: aqua;
+}
+
+.wrapper{
+    width: 1000px;
+    height: 300px;
+    margin: auto;
+    background-color: red;
+    margin-top: 200px;
+    border-radius: 30px;
+    box-shadow: 10px 10px black;
+}
+
+.privet{
+    font-size: 40px;
+    color: blue;
+    line-height: 300px;
+    text-align: center;
+    
+}
+
+.privet a{
+    text-decoration: none;
+}
